@@ -1,7 +1,5 @@
 one
 two 
 three
-<<<<<<< HEAD
-<<<<<<< HEAD
 remote four
 local four
