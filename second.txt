@@ -1,4 +1,8 @@
 one
 two 
 three
+<<<<<<< HEAD
 remote four
+=======
+local four
+>>>>>>> local_branch
